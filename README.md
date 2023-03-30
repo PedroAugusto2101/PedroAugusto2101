@@ -5,7 +5,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531999932101)
 
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugusto2101&show_icons=true&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugusto2101&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso no meu dia
 
