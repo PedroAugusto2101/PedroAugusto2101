@@ -1,3 +1,13 @@
+</div>
+
+-----
+
+<div>
+<img align="center" alt="Header" src="https://PedroAugusto2101/PedroAugusto2101/img/banner.png?raw=true"/>
+</div>
+
+-----
+
 ### Olá! Eu sou o Pedro Augusto 😎
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto210102/)
