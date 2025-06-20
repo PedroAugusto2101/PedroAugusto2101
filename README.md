@@ -17,7 +17,8 @@
 
 <div align="justify">
 Iniciei minha vida acadêmica em 2020 no curso de <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Engenharia Elétrica</a> no <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>, mas logo percebi que minha paixão era tecnologia. Sempre fui curioso e tive contato com computadores desde criança. Aos 11 anos, conheci a lógica de programação usando o software <a href="http://www.microworlds.com/por/" target="_blank">MicroMundos</a> no <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
-  
+
+
 Em 2021, conquistei o certificado <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">FCE (First Certificate in English)</a> de Cambridge, nível B2, que comprova minha fluência em inglês e me dá segurança para atuar em ambientes internacionais.
 
 Em 2022, migrei para o curso de <a href="https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Análise e Desenvolvimento de Sistemas</a> na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, onde explorei diversas áreas da tecnologia, desde programação de baixo nível até segurança da informação e inteligência artificial. Nesse período, desenvolvi projetos práticos como clones de redes sociais e chatbots com IA.
