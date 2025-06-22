@@ -13,7 +13,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/user-profile.gif"/>Sobre mim:
+<img height="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/profile.gif"/> Sobre mim:
 
 <div align="justify">
 Iniciei minha vida acadêmica em 2020 no curso de <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Engenharia Elétrica</a> no <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>, mas logo percebi que minha paixão era tecnologia. Sempre fui curioso e tive contato com computadores desde criança. Aos 11 anos, conheci a lógica de programação usando o software <a href="http://www.microworlds.com/por/" target="_blank">MicroMundos</a> no <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
@@ -38,7 +38,7 @@ Tenho forte base em engenharia de software, o que me permite entregar soluções
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/search.gif"/>Curiosidades e interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/4700_info.gif"/> Curiosidades e interesses pessoais:
 
 <table>
 <tr>
@@ -48,20 +48,20 @@ Tenho forte base em engenharia de software, o que me permite entregar soluções
 <td>
 <div align="justify">
 <p>
-- :man_teacher: Aprendi a jogar <a href="https://www.chess.com/pt" target="_blank">xadrez</a> com meu tio quando eu tinha 6 anos.<br />
-- :man_teacher: Aos 9 anos de idade eu era viciado em <a href="https://store.steampowered.com/app/266840/Age_of_Mythology_Extended_Edition/" target="_blank">Age of Mythology</a> e já tinha zerado toda a saga mais de 3 vezes.<br />
-- :mortar_board: Aos 12 anos fui o melhor jogador de <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> para <a href="https://www.playstation.com/pt-br/ps4/" target="_blank">PS4</a> do meu estado <a href="https://www.google.com/search?q=minas+gerais+brazil&oq=minas+gerais&gs_lcrp=EgZjaHJvbWUqEAgAEAAYkQIY4wIYgAQYigUyEAgAEAAYkQIY4wIYgAQYigUyDQgBEC4YkQIYgAQYigUyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTIxMTNqMGoxNagCDLACAfEFUJd-ayVRSNI&sourceid=chrome&ie=UTF-8" target="_blank">(MG)</a> por cerca de 2 meses, de acordo com as estatísticas da <a href="https://battlelog.battlefield.com/bf4/" target="_blank">Battlelog</a>.<br />
-- :mortar_board: Fui um fracassado no <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, onde joguei por 5 anos e o meu maior elo foi Gold (um dos meus maiores arrependimentos ter gastado mais de 1000 horas nesse jogo).<br />
-- :mortar_board: Torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">maior de minas</a>.<br />
+- :horse: Aprendi a jogar <a href="https://www.chess.com/pt" target="_blank">xadrez</a> com meu tio quando eu tinha 6 anos.<br />
+- :crossed_swords: Aos 9 anos de idade eu era viciado em <a href="https://store.steampowered.com/app/266840/Age_of_Mythology_Extended_Edition/" target="_blank">Age of Mythology</a> e já tinha zerado toda a saga mais de 3 vezes.<br />
+- :military_helmet: Aos 12 anos fui o melhor jogador de <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> para <a href="https://www.playstation.com/pt-br/ps4/" target="_blank">PS4</a> do meu estado <a href="https://www.google.com/search?q=minas+gerais+brazil&oq=minas+gerais&gs_lcrp=EgZjaHJvbWUqEAgAEAAYkQIY4wIYgAQYigUyEAgAEAAYkQIY4wIYgAQYigUyDQgBEC4YkQIYgAQYigUyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTIxMTNqMGoxNagCDLACAfEFUJd-ayVRSNI&sourceid=chrome&ie=UTF-8" target="_blank">(MG)</a> por cerca de 2 meses, de acordo com as estatísticas da <a href="https://battlelog.battlefield.com/bf4/" target="_blank">Battlelog</a>.<br />
+- :mage: Fui um fracassado no <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, onde joguei por 5 anos e o meu maior elo foi Gold (um dos meus maiores arrependimentos ter gastado mais de 1000 horas nesse jogo).<br />
+- :fox_face: Torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">maior de minas</a>.<br />
 - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/usuario/8333176" target="_blank">aqui</a>.<br />
-- :basketball: Meus hobbies são jogar <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> e <a href="https://www.google.com/search?q=calend%C3%A1rio+cruzeiro&oq=calend%C3%A1rio+cruzeiro&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgTGBYYHjIKCAIQABgTGBYYHjIKCAMQABgTGBYYHjIKCAQQABgTGBYYHjIKCAUQABgTGBYYHjIKCAYQABgTGBYYHjIKCAcQABgTGBYYHjIKCAgQABgTGBYYHjIMCAkQABgKGBMYFhge0gEIMjcxM2owajmoAgCwAgE&sourceid=chrome&ie=UTF-8" target="_blank"> acompanhar o cabuloso</a>.<br />
+- :video_game: Meus hobbies são jogar <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> e <a href="https://www.google.com/search?q=calend%C3%A1rio+cruzeiro&oq=calend%C3%A1rio+cruzeiro&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgTGBYYHjIKCAIQABgTGBYYHjIKCAMQABgTGBYYHjIKCAQQABgTGBYYHjIKCAUQABgTGBYYHjIKCAYQABgTGBYYHjIKCAcQABgTGBYYHjIKCAgQABgTGBYYHjIMCAkQABgKGBMYFhge0gEIMjcxM2owajmoAgCwAgE&sourceid=chrome&ie=UTF-8" target="_blank"> acompanhar o cabuloso</a>.<br />
 - :tv: Minha série favorita: <a href="https://www.imdb.com/pt/title/tt0903747/" target="_blank">Breaking Bad</a>.<br />
 </p>
 </div>
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://joaopauloaramuni.github.io/image/dev.gif?raw=true" width="340px" height="650px"/>
+<img alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/developer.gif" width="340px" height="650px"/>
 </div>
 </td>
 </tr>
