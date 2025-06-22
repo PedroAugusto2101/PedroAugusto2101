@@ -7,6 +7,36 @@
 -----
 
 </div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/PedroAugusto2101" target="_blank"><img src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/github4.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:pedrotiagobh@gmail.com" target="_blank"><img src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/gmail2.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5531999932101" target="_blank"><img src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/wpp2.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/pedrao.py/" target="_blank"><img src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/insta2.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/pedro-augusto210102/" target="_blank"><img src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://discordapp.com/users/446712354265366538" target="_blank"><img src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/discord2.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.skoob.com.br/usuario/8333176" target="_blank"><img src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/skoob2.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://calendly.com/pedrotiagobh" target="_blank"><img src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/calendar2.png" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+
+
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Pedro</code>, tenho 23 anos, moro em BH e sou programador desde os 19 anos de idade. Atualmente sou <code>cientista de dados</code> na <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brasil</a>.</i> &#128104;&#8205;&#128187;<br />
 </div>
