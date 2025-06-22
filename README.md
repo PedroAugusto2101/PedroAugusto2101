@@ -104,4 +104,29 @@ Tenho forte base em engenharia de software, o que me permite entregar soluções
 
 -----
 
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/graphic.gif"/>GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto2101&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto2101&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto2101&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+</details>
+</div>
+
+-----
+
 
