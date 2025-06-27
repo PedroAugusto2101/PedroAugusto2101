@@ -135,12 +135,6 @@ Tenho forte base em engenharia de software, o que me permite entregar soluções
       </a>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; width: 60px;">
-      <a href="https://www.java.com/pt-BR/" target="_blank">
-        <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/>
-        <div style="font-size: 12px;">Java</div>
-      </a>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; width: 60px;">
       <a href="https://nodejs.org/en/" target="_blank">
         <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/>
         <div style="font-size: 12px;">Node.js</div>
