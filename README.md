@@ -122,25 +122,30 @@ Tenho forte base em engenharia de software, o que me permite entregar soluções
 -----
 
 <div>
-  <p>
-    <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>
-    &nbsp;<strong>Linguagens e ferramentas:</strong>
-  </p>
+<p>
+  <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>
+  &nbsp;<strong>Linguagens e ferramentas:</strong>
+</p>
 
-  <div style="display: flex; gap: 16px;">
-    <div style="display: flex; flex-direction: column; align-items: center; width: 60px;">
+<table>
+  <tr>
+    <td align="center" width="60">
       <a href="https://www.python.org/" target="_blank">
         <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/>
-        <div style="font-size: 12px;">Python</div>
+        <br/>
+        <span style="font-size: 12px;">Python</span>
       </a>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; width: 60px;">
+    </td>
+    <td align="center" width="60">
       <a href="https://nodejs.org/en/" target="_blank">
         <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/>
-        <div style="font-size: 12px;">Node.js</div>
+        <br/>
+        <span style="font-size: 12px;">Node.js</span>
       </a>
-    </div>
-  </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
