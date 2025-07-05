@@ -59,7 +59,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/profile.gif"/> Sobre mim:
+<img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/profile.gif"/> Sobre mim:
 
 <div align="justify">
 Iniciei minha vida acadêmica em 2020 no curso de <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Engenharia Elétrica</a> no <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>, mas logo percebi que minha paixão era tecnologia. Sempre fui curioso e tive contato com computadores desde criança. Aos 11 anos, conheci a lógica de programação usando o software <a href="http://www.microworlds.com/por/" target="_blank">MicroMundos</a> no <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
@@ -84,7 +84,7 @@ Tenho forte base em engenharia de software, o que me permite entregar soluções
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/4700_info.gif"/> Curiosidades e interesses pessoais:
+<img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/4700_info.gif"/> Curiosidades e interesses pessoais:
 
 <table>
 <tr>
@@ -124,7 +124,7 @@ Tenho forte base em engenharia de software, o que me permite entregar soluções
 
 <div>
 <p>
-  <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>
+  <img height="20" width="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>
   &nbsp;<strong>Linguagens e ferramentas:</strong>
 </p>
 
@@ -154,7 +154,7 @@ Tenho forte base em engenharia de software, o que me permite entregar soluções
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/graphic.gif"/>GitHub Stats:
+<img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/graphic.gif"/>GitHub Stats:
 
 <div align="center">
 <table>
