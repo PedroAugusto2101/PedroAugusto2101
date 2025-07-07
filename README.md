@@ -103,7 +103,7 @@ Tenho forte base em engenharia de software, o que me permite entregar soluções
 - :video_game: Meus hobbies são jogar <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> e <a href="https://www.google.com/search?q=calend%C3%A1rio+cruzeiro&oq=calend%C3%A1rio+cruzeiro&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgTGBYYHjIKCAIQABgTGBYYHjIKCAMQABgTGBYYHjIKCAQQABgTGBYYHjIKCAUQABgTGBYYHjIKCAYQABgTGBYYHjIKCAcQABgTGBYYHjIKCAgQABgTGBYYHjIMCAkQABgKGBMYFhge0gEIMjcxM2owajmoAgCwAgE&sourceid=chrome&ie=UTF-8" target="_blank"> acompanhar o cabuloso</a>.<br />
 - :tv: Minha série favorita: <a href="https://www.imdb.com/pt/title/tt0903747/" target="_blank">Breaking Bad</a>.<br />
 - :muscle: Sou team <a href="https://www.nike.com/" target="_blank">Nike</a>, <a href="https://www.coca-cola.com/" target="_blank">Coca-cola</a>, <a href="https://www.samsung.com/" target="_blank">Samsung</a>, <a href="https://www.playstation.com/" target="_blank">PlayStation</a>, <a href="https://youtu.be/Cl6e47xqEb8?si=o0TzRbn1jsUQAE60&t=2" target="_blank">CR7</a>, <a href="https://youtu.be/TWB31WFomz4?si=LA0VWOdoEY2T-xdi&t=61" target="_blank">Marvel</a>.<br />
-- :cheese: Mineiro, belo-horizontino. <br />
+- :cheese: <a href="https://maps.app.goo.gl/FY9dCHAyYMzM3x2A6" target="_blank">Mineiro</a>, <a href="https://maps.app.goo.gl/thqLDGvQCcGqY6tX7" target="_blank">belo-horizontino</a>. <br />
 </p>
 </div>
 </td>
