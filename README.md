@@ -74,7 +74,7 @@ Em 2022, migrei para o curso de <a href="https://newtonpaiva.br/cursos/graduacao
 Minha trajetória profissional começou em 2018, aos 16 anos, como bolsista de iniciação científica na <a href="https://fiocruz.br/" target="_blank">Fundação Oswaldo Cruz (FioCruz)</a>, contribuindo com a atualização de dados em uma pesquisa sobre repelentes para mosquitos da leishmaniose. Depois, atuei como assistente de dados na <a href="https://tractebel-engie.com.br/pt" target="_blank">Tractebel Engie</a>, automatizando rotinas internas com Python.
 <br>
 <br>
-Mais tarde, fui estagiário na <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brasil</a>, desenvolvendo scripts de automação, raspagem de dados e dashboards com Streamlit. Atualmente, sou Cientista de Dados Júnior na mesma empresa, atuando de forma fullstack na área de dados: crio pipelines com Azure Databricks, modelos preditivos e classificatórios, soluções com LLMs, além de dashboards com Power BI e Streamlit.
+Mais tarde, fui estagiário na <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brasil</a>, desenvolvendo scripts de automação, raspagem de dados e dashboards com Streamlit. Atualmente, sou Engenheiro de dados na mesma empresa, atuando de forma fullstack na área de dados: crio pipelines com Azure Databricks, modelos preditivos e classificatórios, algoritmos de tratamento de dados, soluções com LLMs, além de dashboards com Power BI e Streamlit.
 <br>
 <br>
 Tenho forte base em engenharia de software, o que me permite entregar soluções robustas e escaláveis. Além disso, possuo ampla experiência com equipes de negócio, o que me proporcionou visão estratégica e entendimento prático de processos — um diferencial importante como profissional de tecnologia.
