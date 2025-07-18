@@ -131,28 +131,25 @@ I have a solid foundation in software engineering, which enables me to deliver s
 -----
 
 <div>
-
-<img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/graphic.gif"/>GitHub Stats:
+<img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/graphic.gif"/> GitHub Stats:
 
 <div align="center">
 <table>
+<tr><td align="center" colspan="3"></td></tr> 
 <tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto2101&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto2101&theme=dark&locale=pt-br&langs_count=7"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto2101&layout=pie&theme=dark&locale=pt-br"/>
-</td>
+  <td>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto2101&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=en&card_width=480"/>
+  </td>
+  <td>
+    <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto2101&theme=dark&locale=en&langs_count=7"/>
+  </td>
+  <td>
+    <img alt="GitHub Top Langs Pie" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto2101&layout=pie&theme=dark&locale=en"/>
+  </td>
 </tr>
-</details>
+</table>
 </div>
-
+</div>
 -----
 
                                                                                                                                                               
