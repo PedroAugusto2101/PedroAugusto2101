@@ -67,26 +67,24 @@ I have a solid foundation in software engineering, which enables me to deliver s
 
 <div>
 
-<img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/4700_info.gif"/> Curiosidades e interesses pessoais:
+<img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/4700_info.gif"/> Fun facts and personal interests:
 
 <table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
+<tr><td align="center" colspan="2"></td></tr> 
 <tr>
 <td>
 <div align="justify">
 <p>
-- :horse: Aprendi a jogar <a href="https://www.chess.com/pt" target="_blank">xadrez</a> com meu tio quando eu tinha 6 anos.<br />
-- :crossed_swords: Aos 9 anos de idade eu era viciado em <a href="https://store.steampowered.com/app/266840/Age_of_Mythology_Extended_Edition/" target="_blank">Age of Mythology</a> e já tinha zerado toda a saga mais de 3 vezes.<br />
-- :military_helmet: Aos 12 anos fui o melhor jogador de <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> para <a href="https://www.playstation.com/pt-br/ps4/" target="_blank">PS4</a> do meu estado <a href="https://www.google.com/search?q=minas+gerais+brazil&oq=minas+gerais&gs_lcrp=EgZjaHJvbWUqEAgAEAAYkQIY4wIYgAQYigUyEAgAEAAYkQIY4wIYgAQYigUyDQgBEC4YkQIYgAQYigUyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTIxMTNqMGoxNagCDLACAfEFUJd-ayVRSNI&sourceid=chrome&ie=UTF-8" target="_blank">(MG)</a> por cerca de 2 meses, de acordo com as estatísticas da <a href="https://battlelog.battlefield.com/bf4/" target="_blank">Battlelog</a>.<br />
-- :mage: Fui um fracassado no <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, onde joguei por 5 anos e o meu maior elo foi Gold (um dos meus maiores arrependimentos ter gastado mais de 1000 horas nesse jogo).<br />
-- :fox_face: Torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">maior de minas</a>.<br />
-- :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/usuario/8333176" target="_blank">aqui</a>.<br />
-- :video_game: Meus hobbies são jogar <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> e <a href="https://www.google.com/search?q=calend%C3%A1rio+cruzeiro&oq=calend%C3%A1rio+cruzeiro&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgTGBYYHjIKCAIQABgTGBYYHjIKCAMQABgTGBYYHjIKCAQQABgTGBYYHjIKCAUQABgTGBYYHjIKCAYQABgTGBYYHjIKCAcQABgTGBYYHjIKCAgQABgTGBYYHjIMCAkQABgKGBMYFhge0gEIMjcxM2owajmoAgCwAgE&sourceid=chrome&ie=UTF-8" target="_blank"> acompanhar o cabuloso</a>.<br />
-- :tv: Minha série favorita: <a href="https://www.imdb.com/pt/title/tt0903747/" target="_blank">Breaking Bad</a>.<br />
-- :muscle: Sou team <a href="https://www.nike.com/" target="_blank">Nike</a>, <a href="https://www.coca-cola.com/" target="_blank">Coca-cola</a>, <a href="https://www.samsung.com/" target="_blank">Samsung</a>, <a href="https://www.playstation.com/" target="_blank">PlayStation</a>, <a href="https://youtu.be/Cl6e47xqEb8?si=o0TzRbn1jsUQAE60&t=2" target="_blank">CR7</a>, <a href="https://youtu.be/TWB31WFomz4?si=LA0VWOdoEY2T-xdi&t=61" target="_blank">Marvel</a>.<br />
-- :cheese: <a href="https://maps.app.goo.gl/FY9dCHAyYMzM3x2A6" target="_blank">Mineiro</a>, <a href="https://maps.app.goo.gl/thqLDGvQCcGqY6tX7" target="_blank">belo-horizontino</a>. <br />
+- :horse: Learned how to play <a href="https://www.chess.com/pt" target="_blank">chess</a> with my uncle at 6 years old.<br />
+- :crossed_swords: At age 9, I was addicted to <a href="https://store.steampowered.com/app/266840/Age_of_Mythology_Extended_Edition/" target="_blank">Age of Mythology</a> and beat the entire saga over 3 times.<br />
+- :military_helmet: At age 12, I was the top <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> player on <a href="https://www.playstation.com/pt-br/ps4/" target="_blank">PS4</a> in my state (<a href="https://www.google.com/search?q=minas+gerais+brazil" target="_blank">MG</a>) for about 2 months, according to <a href="https://battlelog.battlefield.com/bf4/" target="_blank">Battlelog</a> stats.<br />
+- :mage: I was a complete failure at <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, where I spent 5 years and only reached Gold — one of my biggest regrets (1000+ hours wasted).<br />
+- :fox_face: I'm a fan of the <a href="https://www.cruzeiro.com.br/" target="_blank">biggest club in Minas</a>.<br />
+- :books: Check out the books I’ve read or am currently reading <a href="https://www.skoob.com.br/usuario/8333176" target="_blank">here</a>.<br />
+- :video_game: My hobbies include playing <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> and <a href="https://www.google.com/search?q=calend%C3%A1rio+cruzeiro" target="_blank">following Cruzeiro’s matches</a>.<br />
+- :tv: My favorite show: <a href="https://www.imdb.com/pt/title/tt0903747/" target="_blank">Breaking Bad</a>.<br />
+- :muscle: I'm team <a href="https://www.nike.com/" target="_blank">Nike</a>, <a href="https://www.coca-cola.com/" target="_blank">Coca-Cola</a>, <a href="https://www.samsung.com/" target="_blank">Samsung</a>, <a href="https://www.playstation.com/" target="_blank">PlayStation</a>, <a href="https://youtu.be/Cl6e47xqEb8?si=o0TzRbn1jsUQAE60&t=2" target="_blank">CR7</a>, <a href="https://youtu.be/TWB31WFomz4?si=LA0VWOdoEY2T-xdi&t=61" target="_blank">Marvel</a>.<br />
+- :cheese: Born and raised in <a href="https://maps.app.goo.gl/FY9dCHAyYMzM3x2A6" target="_blank">Minas Gerais</a>, living in <a href="https://maps.app.goo.gl/thqLDGvQCcGqY6tX7" target="_blank">Belo Horizonte</a>.<br />
 </p>
 </div>
 </td>
@@ -96,9 +94,7 @@ I have a solid foundation in software engineering, which enables me to deliver s
 </div>
 </td>
 </tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
+<tr><td align="center" colspan="2"></td></tr> 
 </table>
 
 </div>
