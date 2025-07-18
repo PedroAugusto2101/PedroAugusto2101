@@ -47,25 +47,30 @@
 
 -----
 
-<img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/profile.gif"/> Sobre mim:
+<img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/profile.gif"/> About me:
 
 <div align="justify">
-Iniciei minha vida acadêmica em 2020 no curso de <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Engenharia Elétrica</a> no <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>, mas logo percebi que minha paixão era tecnologia. Sempre fui curioso e tive contato com computadores desde criança. Aos 11 anos, conheci a lógica de programação usando o software <a href="http://www.microworlds.com/por/" target="_blank">MicroMundos</a> no <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
-<br>
-<br>
-Em 2021, conquistei o certificado <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">FCE (First Certificate in English)</a> de Cambridge, nível B2, que comprova minha fluência em inglês e me dá segurança para atuar em ambientes internacionais.
-<br>
-<br>
-Em 2022, migrei para o curso de <a href="https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Análise e Desenvolvimento de Sistemas</a> na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, onde explorei diversas áreas da tecnologia, desde programação de baixo nível até segurança da informação e inteligência artificial. Nesse período, desenvolvi projetos práticos como clones de redes sociais e chatbots com IA.
-<br>
-<br>
-Minha trajetória profissional começou em 2018, aos 16 anos, como bolsista de iniciação científica na <a href="https://fiocruz.br/" target="_blank">Fundação Oswaldo Cruz (FioCruz)</a>, contribuindo com a atualização de dados em uma pesquisa sobre repelentes para mosquitos da leishmaniose. Depois, atuei como assistente de dados na <a href="https://tractebel-engie.com.br/pt" target="_blank">Tractebel Engie</a>, automatizando rotinas internas com Python.
-<br>
-<br>
-Mais tarde, fui estagiário na <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brasil</a>, desenvolvendo scripts de automação, raspagem de dados e dashboards com Streamlit. Atualmente, sou Engenheiro de dados na mesma empresa, atuando de forma fullstack na área de dados: crio pipelines com Azure Databricks, modelos preditivos e classificatórios, algoritmos de tratamento de dados, soluções com LLMs, além de dashboards com Power BI e Streamlit.
-<br>
-<br>
-Tenho forte base em engenharia de software, o que me permite entregar soluções robustas e escaláveis. Além disso, possuo ampla experiência com equipes de negócio, o que me proporcionou visão estratégica e entendimento prático de processos — um diferencial importante como profissional de tecnologia.
+I started my academic journey in 2020 studying <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Electrical Engineering</a> at <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>, but soon realized my true passion was technology. I've been curious and involved with computers since childhood. At age 11, I was introduced to programming logic using <a href="http://www.microworlds.com/por/" target="_blank">MicroWorlds</a> at <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
+
+<br><br>
+
+In 2021, I earned the <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">Cambridge FCE (First Certificate in English)</a>, B2 level, which certifies my fluency and gives me confidence to work in international environments.
+
+<br><br>
+
+In 2022, I transferred to the <a href="https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Systems Analysis and Development</a> program at <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, where I explored many areas of tech — from low-level programming to AI and cybersecurity. I built hands-on projects like social media clones and AI-powered chatbots.
+
+<br><br>
+
+My professional path began in 2018, at 16 years old, as a research intern at <a href="https://fiocruz.br/" target="_blank">Fiocruz</a>, helping update data in a mosquito repellent study. Later, I worked as a data assistant at <a href="https://tractebel-engie.com.br/pt" target="_blank">Tractebel Engie</a>, automating internal routines with Python.
+
+<br><br>
+
+Eventually, I interned at <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brazil</a>, creating automation scripts, data scrapers, and dashboards with Streamlit. Now, I work there as a full-stack Data Engineer, building pipelines with Azure Databricks, predictive and classification models, LLM-based solutions, and dashboards with Power BI and Streamlit.
+
+<br><br>
+
+I have a solid foundation in software engineering, which enables me to deliver scalable, robust solutions. I also have strong communication with business teams, which gives me strategic insight and practical process understanding — a key advantage as a tech professional.
 </div>
 
 -----
