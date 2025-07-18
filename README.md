@@ -56,19 +56,19 @@ I started my academic journey in 2020 studying <a href="https://www.eng-eletrica
 
 In 2021, I earned the <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">Cambridge FCE (First Certificate in English)</a>, B2 level, which certifies my fluency and gives me confidence to work in international environments.
 
-<br><br>
+<br>
 
 In 2022, I transferred to the <a href="https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Systems Analysis and Development</a> program at <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, where I explored many areas of tech — from low-level programming to AI and cybersecurity. I built hands-on projects like social media clones and AI-powered chatbots.
 
-<br><br>
+<br>
 
 My professional path began in 2018, at 16 years old, as a research intern at <a href="https://fiocruz.br/" target="_blank">Fiocruz</a>, helping update data in a mosquito repellent study. Later, I worked as a data assistant at <a href="https://tractebel-engie.com.br/pt" target="_blank">Tractebel Engie</a>, automating internal routines with Python.
 
-<br><br>
+<br>
 
 Eventually, I interned at <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brazil</a>, creating automation scripts, data scrapers, and dashboards with Streamlit. Now, I work there as a full-stack Data Engineer, building pipelines with Azure Databricks, predictive and classification models, LLM-based solutions, and dashboards with Power BI and Streamlit.
 
-<br><br>
+<br>
 
 I have a solid foundation in software engineering, which enables me to deliver scalable, robust solutions. I also have strong communication with business teams, which gives me strategic insight and practical process understanding — a key advantage as a tech professional.
 </div>
