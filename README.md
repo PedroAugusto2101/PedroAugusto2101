@@ -75,7 +75,7 @@ I have a solid foundation in software engineering, which enables me to deliver s
 <td>
 <div align="justify">
 <p>
-- :horse: Learned how to play <a href="https://www.chess.com/pt" target="_blank">chess</a> with my uncle at 6 years old.<br />
+- :horse: Learned how to play <a href="https://www.chess.com/pt" target="_blank">chess</a> at 6 years old.<br />
 - :crossed_swords: At age 9, I was addicted to <a href="https://store.steampowered.com/app/266840/Age_of_Mythology_Extended_Edition/" target="_blank">Age of Mythology</a> and beat the entire saga over 3 times.<br />
 - :military_helmet: At age 12, I was the top <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> player on <a href="https://www.playstation.com/pt-br/ps4/" target="_blank">PS4</a> in my state (<a href="https://www.google.com/search?q=minas+gerais+brazil" target="_blank">MG</a>) for about 2 months, according to <a href="https://battlelog.battlefield.com/bf4/" target="_blank">Battlelog</a> stats.<br />
 - :mage: I was a complete failure at <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, where I spent 5 years and only reached Gold — one of my biggest regrets (1000+ hours wasted).<br />
