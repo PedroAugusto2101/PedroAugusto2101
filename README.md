@@ -104,7 +104,7 @@ I have a solid foundation in software engineering, which enables me to deliver s
 <div>
 <p>
   <img height="20" width="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>
-  &nbsp;<strong>Linguagens e ferramentas:</strong>
+  &nbsp;<strong>Languages and Tools:</strong>
 </p>
 
 <table>
@@ -125,7 +125,6 @@ I have a solid foundation in software engineering, which enables me to deliver s
     </td>
   </tr>
 </table>
-
 </div>
 
 
