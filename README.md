@@ -52,7 +52,7 @@
 <div align="justify">
 I started my academic journey in 2020 studying <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Electrical Engineering</a> at <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>, but soon realized my true passion was technology. I've been curious and involved with computers since childhood. At age 11, I was introduced to programming logic using <a href="http://www.microworlds.com/por/" target="_blank">MicroWorlds</a> at <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
 
-<br><br>
+<br>
 
 In 2021, I earned the <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">Cambridge FCE (First Certificate in English)</a>, B2 level, which certifies my fluency and gives me confidence to work in international environments.
 
