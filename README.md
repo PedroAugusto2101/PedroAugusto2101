@@ -78,7 +78,7 @@ I have a solid foundation in software engineering, which enables me to deliver s
 - :crossed_swords: At age 9, I was addicted to <a href="https://store.steampowered.com/app/266840/Age_of_Mythology_Extended_Edition/" target="_blank">Age of Mythology</a> and beat the entire saga over 3 times.<br />
 - :military_helmet: At age 12, I was the top <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> player on <a href="https://www.playstation.com/pt-br/ps4/" target="_blank">PS4</a> in my state (<a href="https://www.google.com/search?q=minas+gerais+brazil" target="_blank">MG</a>) for about 2 months, according to <a href="https://battlelog.battlefield.com/bf4/" target="_blank">Battlelog</a> stats.<br />
 - :mage: I was a complete failure at <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, where I spent 5 years and only reached Gold — one of my biggest regrets (1000+ hours wasted).<br />
-- :fox_face: I'm a fan of the <a href="https://www.cruzeiro.com.br/" target="_blank">biggest club in Minas</a>.<br />
+- :fox_face: My soccer team is the <a href="https://www.cruzeiro.com.br/" target="_blank">biggest in Minas Gerais</a>.<br />
 - :books: Check out the books I’ve read or am currently reading <a href="https://www.skoob.com.br/usuario/8333176" target="_blank">here</a>.<br />
 - :video_game: My hobbies include playing <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> and <a href="https://www.google.com/search?q=calend%C3%A1rio+cruzeiro" target="_blank">following Cruzeiro’s matches</a>.<br />
 - :tv: My favorite show: <a href="https://www.imdb.com/pt/title/tt0903747/" target="_blank">Breaking Bad</a>.<br />
