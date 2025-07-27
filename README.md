@@ -25,7 +25,7 @@
 </div>
 
 <div align="justify">
-<i><b>Hello</b> :wave:, I'm <code>Pedro</code>, I'm 23 years old, living in Belo Horizonte (Brazil), and I've been a programmer since I was 19. I'm currently working as a <code>Data Engineer</code> at <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brazil</a>.</i> &#128104;&#8205;&#128187;<br />
+<i><b>Hello</b> :wave:, I'm <code>Pedro</code>, I'm 23 years old, living in Belo Horizonte (Brazil), and I've been a programmer since I was 19. I'm currently working as a <code>Data Engineer</code> at <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brasil</a>.</i> &#128104;&#8205;&#128187;<br />
 </div>
 <div align="center">
 <table>
