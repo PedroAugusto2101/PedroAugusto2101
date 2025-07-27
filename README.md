@@ -115,13 +115,6 @@ I have a solid foundation in software engineering, which enables me to deliver s
         <span style="font-size: 12px;">Python</span>
       </a>
     </td>
-    <td align="center" width="60">
-      <a href="https://nodejs.org/en/" target="_blank">
-        <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/>
-        <br/>
-        <span style="font-size: 12px;">Node.js</span>
-      </a>
-    </td>
   </tr>
 </table>
 </div>
