@@ -110,7 +110,7 @@ I have a solid foundation in software engineering, which enables me to deliver s
   <tr>
     <td align="center" width="60">
       <a href="https://www.python.org/" target="_blank">
-        <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/>
+        <img width="32" height="32" src="https://github.com/PedroAugusto2101/python/>
         <br/>
         <span style="font-size: 12px;">Python</span>
       </a>
