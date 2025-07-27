@@ -81,7 +81,7 @@ I have a solid foundation in software engineering, which enables me to deliver s
 - :fox_face: My soccer team is the <a href="https://www.cruzeiro.com.br/" target="_blank">biggest in Minas Gerais</a>.<br />
 - :books: Check out the books I’ve read or am currently reading <a href="https://www.skoob.com.br/usuario/8333176" target="_blank">here</a>.<br />
 - :video_game: My hobbies include playing <a href="https://www.ea.com/games/battlefield/battlefield-4" target="_blank">Battlefield 4</a> and <a href="https://www.google.com/search?q=calend%C3%A1rio+cruzeiro" target="_blank">following Cruzeiro’s matches</a>.<br />
-- :tv: My favorite show: <a href="https://www.imdb.com/pt/title/tt0903747/" target="_blank">Breaking Bad</a>.<br />
+- :tv: My favorite show: <a href="https://www.imdb.com/pt/title/tt0903747/" target="_blank">Breaking Bad</a> and <a href="https://www.imdb.com/pt/title/tt5753856/" target="_blank">Dark</a>.<br />
 - :muscle: I'm team <a href="https://www.nike.com/" target="_blank">Nike</a>, <a href="https://www.coca-cola.com/" target="_blank">Coca-Cola</a>, <a href="https://www.samsung.com/" target="_blank">Samsung</a>, <a href="https://www.playstation.com/" target="_blank">PlayStation</a>, <a href="https://youtu.be/Cl6e47xqEb8?si=o0TzRbn1jsUQAE60&t=2" target="_blank">CR7</a>, <a href="https://youtu.be/TWB31WFomz4?si=LA0VWOdoEY2T-xdi&t=61" target="_blank">Marvel</a>.<br />
 - :cheese: Born and raised in <a href="https://maps.app.goo.gl/FY9dCHAyYMzM3x2A6" target="_blank">Minas Gerais</a>, living in <a href="https://maps.app.goo.gl/thqLDGvQCcGqY6tX7" target="_blank">Belo Horizonte</a>.<br />
 </p>
