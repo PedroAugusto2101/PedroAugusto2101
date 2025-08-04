@@ -116,6 +116,13 @@ I have a solid foundation in software engineering, which enables me to deliver s
         <span style="font-size: 12px;">Python</span>
       </a>
     </td>
+    <td align="center" width="60">
+      <a href="https://github.com/PedroAugusto2101/python" target="_blank">
+        <img width="32" height="32" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/python.png"/>
+        <br/>
+        <span style="font-size: 12px;">Python</span>
+      </a>
+    </td>
   </tr>
 </table>
 </div>
