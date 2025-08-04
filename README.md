@@ -117,10 +117,10 @@ I have a solid foundation in software engineering, which enables me to deliver s
       </a>
     </td>
     <td align="center" width="60">
-      <a href="https://github.com/PedroAugusto2101/python" target="_blank">
-        <img width="32" height="32" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/python.png"/>
+      <a href="https://github.com/PedroAugusto2101/machine-learning" target="_blank">
+        <img width="32" height="32" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/machine_learning_icon.png"/>
         <br/>
-        <span style="font-size: 12px;">Python</span>
+        <span style="font-size: 12px;">Machine Learning</span>
       </a>
     </td>
   </tr>
