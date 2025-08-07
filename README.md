@@ -117,6 +117,13 @@ I have a solid foundation in software engineering, which enables me to deliver s
       </a>
     </td>
     <td align="center" width="60">
+      <a href="https://github.com/PedroAugusto2101/pokemon-etl" target="_blank">
+        <img width="32" height="32" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/databricks-sfundo.png"/>
+        <br/>
+        <span style="font-size: 12px;">Databricks</span>
+      </a>
+    </td>
+    <td align="center" width="60">
       <a href="https://github.com/PedroAugusto2101/machine-learning" target="_blank">
         <img width="32" height="32" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/machine-learning1.png"/>
         <br/>
