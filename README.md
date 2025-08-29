@@ -2,7 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/banner.png"/>
+<img align="center" alt="Header" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/fundo%20github.png"/>
 </div>
 
 -----
