@@ -26,7 +26,7 @@
 </div>
 
 <div align="justify">
-<i><b>Hello</b> :wave:, I'm <code>Pedro</code>, I'm 24 years old, living in Belo Horizonte (Brazil), and I've been a programmer since I was 19. I'm currently working as a <code>Data Engineer</code> at <a href="https://mtp.com.br/" target="_blank">ArcelorMittal Brasil</a>.</i> &#128104;&#8205;&#128187;<br />
+<i><b>Hello</b> :wave:, I'm <code>Pedro</code>, I'm 24 years old, living in Belo Horizonte (Brazil), and I've been a programmer since I was 19. I'm currently working as a <code>Data Engineer</code> at <a href="https://mtp.com.br/" target="_blank">MTP Brasil</a>.</i> &#128104;&#8205;&#128187;<br />
 </div>
 <div align="center">
 <table>
@@ -50,17 +50,19 @@
 <img height="20" width="20" alt="GIF" src="https://github.com/PedroAugusto2101/PedroAugusto2101/blob/main/img/profile.gif"/> About me:
 
 <div align="justify">
-I started my academic journey in 2020 studying <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Electrical Engineering</a> at <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>, but soon realized my true passion was technology. I've been curious and involved with computers since childhood. At age 11, I was introduced to programming logic using <a href="http://www.microworlds.com/por/" target="_blank">MicroWorlds</a> at <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
+I began my academic journey in 2020 studying <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Electrical Engineering</a> at <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>. However, driven by my passion for technology, I quickly realized that my true interests were in algorithm-related subjects and Arduino programming. This led me to transition to a program fully focused on technology and software development. I've been curious and involved with computers since childhood. At age 11, I was introduced to programming logic using <a href="http://www.microworlds.com/por/" target="_blank">MicroWorlds</a> at <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
 
 In 2021, I earned the <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">Cambridge FCE (First Certificate in English)</a>, B2 level, which certifies my fluency and gives me confidence to work in international environments.
 
-In 2022, I transferred to the <a href="https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Systems Analysis and Development</a> program at <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, where I explored many areas of tech — from low-level programming to AI and cybersecurity. I built hands-on projects like social media clones and AI-powered chatbots.
+In 2022, I transferred to the <a href="https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Systems Analysis and Development</a> program at <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, where I explored many areas of tech, from low-level programming to AI and cybersecurity. I built hands-on projects like social media clones and AI-powered chatbots.
 
 My professional path began in 2018, at 16 years old, as a research intern at <a href="https://fiocruz.br/" target="_blank">Fiocruz</a>, helping update data in a mosquito repellent study. Later, I worked as a data assistant at <a href="https://tractebel-engie.com.br/pt" target="_blank">Tractebel Engie</a>, automating internal routines with Python.
 
-Eventually, I interned at <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brazil</a>, creating automation scripts, data scrapers, and dashboards with Streamlit. Now, I work there as a full-stack Data Engineer, building pipelines with Azure Databricks, predictive and classification models, LLM-based solutions, and dashboards with Power BI and Streamlit.
+Eventually, I interned at <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brazil</a>, creating automation scripts, data scrapers, and dashboards with Streamlit. After my internship, I was promoted and hired as a <b>Full-Stack Data Engineer</b>, where I built data pipelines with Azure Databricks, developed predictive and classification models, implemented LLM-based solutions, and delivered dashboards using Power BI and <a href="https://streamlit.io/" target="_blank">Streamlit</a>.
 
-I have a solid foundation in software engineering, which enables me to deliver scalable, robust solutions. I also have strong communication with business teams, which gives me strategic insight and practical process understanding — a key advantage as a tech professional.
+Currently, I work as a <b>Data Engineer</b> at <a href="https://mtp.com.br/" target="_blank">MTP Brasil</a>, using a modern data stack that includes <b>Databricks, Azure, Python, SQL, PySpark</b>, and <b>CI/CD</b> practices. I focus on building scalable data pipelines, distributed data processing solutions, and robust cloud-based architectures.
+
+I have a solid foundation in software engineering and a strong understanding of AI engineering concepts, which enables me to deliver scalable and robust solutions. I also communicate effectively with business teams, gaining strategic insight and practical process understanding, a key advantage as a tech professional.
 </div>
 
 -----
