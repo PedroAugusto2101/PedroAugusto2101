@@ -52,7 +52,6 @@
 <div align="justify">
 I began my academic journey in 2020 studying <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Electrical Engineering</a> at <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>. However, driven by my passion for technology, I quickly realized that my true interests were in algorithm-related subjects and Arduino programming. This led me to transition to a program fully focused on technology and software development. I've been curious and involved with computers since childhood. At age 11, I was introduced to programming logic using <a href="http://www.microworlds.com/por/" target="_blank">MicroMundos</a> at <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
 
-
 In 2021, I earned the <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">Cambridge FCE (First Certificate in English)</a>, B2 level, which certifies my fluency and gives me confidence to work in international environments.
 
 In 2022, I transferred to the <a href="https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Systems Analysis and Development</a> program at <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, where I explored many areas of tech, from low-level programming to AI and cybersecurity. I built hands-on projects like social media clones and AI-powered chatbots.
