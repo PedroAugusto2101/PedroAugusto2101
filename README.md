@@ -51,31 +51,84 @@
 
 <div align="justify">
   <p>
-    I began my academic journey in 2020 studying <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Electrical Engineering</a> at <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>. However, driven by my passion for technology, I quickly realized that my true interests were in algorithm-related subjects and Arduino programming. This led me to transition to a program fully focused on technology and software development. I've been curious and involved with computers since childhood. At age 11, I was introduced to programming logic using <a href="http://www.microworlds.com/por/" target="_blank">MicroMundos</a> at <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
+    My relationship with technology began early. In <b>2014</b>, at the age of 11, I had my first contact with programming logic through 
+    <a href="http://www.microworlds.com/por/" target="_blank">MicroMundos</a> and later <b>Scratch</b>, both visual programming platforms, at 
+    <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>. 
+    Using block-based programming, I learned fundamental concepts such as logical reasoning, conditionals, loops, variables, and event-driven execution. 
+    The main goal at this stage was to understand how computers “think” and how logic could be translated into executable instructions. 
+    This early exposure significantly strengthened my problem-solving mindset and laid the foundation for my future transition to text-based programming languages.
   </p>
 
   <p>
-    In 2021, I earned the <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">Cambridge FCE (First Certificate in English)</a>, B2 level, which certifies my fluency and gives me confidence to work in international environments.
+    In <b>2018</b>, at 16 years old, I began my professional journey as a research intern at 
+    <a href="https://fiocruz.br/" target="_blank">Fiocruz</a>. 
+    I worked on research initiatives related to <b>data-driven studies focused on the prevention of contagious diseases</b>, contributing to public health projects. 
+    My responsibilities involved data organization, validation, and updating research datasets, using spreadsheets, basic data analysis techniques, and structured documentation. 
+    The objective of this experience was to support scientific research with reliable data, and the main gain was developing discipline, attention to detail, 
+    and an early understanding of how data quality directly impacts decision-making in critical domains such as healthcare.
   </p>
 
   <p>
-    In 2022, I transferred to the <a href="https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Systems Analysis and Development</a> program at <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, where I explored many areas of tech, from low-level programming to AI and cybersecurity. I built hands-on projects like social media clones and AI-powered chatbots.
+    In <b>2020</b>, I started my higher education academic journey studying 
+    <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Electrical Engineering</a> at 
+    <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>. 
+    During this period, I acquired a strong analytical background through subjects such as calculus, physics, logic, and introductory programming, 
+    while also working with Arduino and embedded systems. 
+    Although the course strengthened my mathematical reasoning and engineering mindset, I realized that my main interest was in algorithms, software development, 
+    and computational problem-solving. This realization guided my decision to migrate to a program fully aligned with technology and software engineering.
   </p>
 
   <p>
-    My professional path began in 2018, at 16 years old, as a research intern at <a href="https://fiocruz.br/" target="_blank">Fiocruz</a>, helping update data in a mosquito repellent study. Later, I worked as a data assistant at <a href="https://tractebel-engie.com.br/pt" target="_blank">Tractebel Engie</a>, automating internal routines with Python.
+    In <b>2021</b>, I earned the 
+    <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">Cambridge FCE (First Certificate in English)</a>, 
+    B2 level, validating my ability to communicate effectively in professional and international environments. 
+    In the same year, I joined 
+    <a href="https://tractebel-engie.com.br/pt" target="_blank">Tractebel Engie</a> as a data assistant. 
+    In this role, I worked mainly with <b>Python</b>, automating repetitive internal routines, handling spreadsheets, and improving operational workflows. 
+    The objective was to reduce manual effort and increase efficiency, resulting in faster processes, fewer errors, and better reliability of internal data operations. 
+    This experience marked my first professional use of programming to generate tangible business value.
   </p>
 
   <p>
-    Eventually, I interned at <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brazil</a>, creating automation scripts, data scrapers, and dashboards with Streamlit. After my internship, I was promoted and hired as a <b>Full-Stack Data Engineer</b>, where I built data pipelines with Azure Databricks, developed predictive and classification models, implemented LLM-based solutions, and delivered dashboards using Power BI and <a href="https://streamlit.io/" target="_blank">Streamlit</a>.
+    In <b>2022</b>, I transferred to the 
+    <a href="https://newtonpaiva.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/" target="_blank">Systems Analysis and Development</a> 
+    program at 
+    <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>. 
+    Throughout the course, I built a solid foundation in software engineering, working with data structures, algorithms, databases, APIs, and web development. 
+    I also explored advanced topics such as artificial intelligence, data engineering, and cybersecurity. 
+    Using technologies like Python, SQL, JavaScript, and cloud-based tools, I developed hands-on projects including social media clones, automation systems, 
+    and AI-powered chatbots. The main objective was to bridge theory and practice, and the key gain was the ability to design complete, end-to-end software solutions.
   </p>
 
   <p>
-    Currently, I work as a <b>Data Engineer</b> at <a href="https://mtp.com.br/" target="_blank">MTP Brasil</a>, using a modern data stack that includes <b>Databricks, Azure, Python, SQL, PySpark</b>, and <b>CI/CD</b> practices. I focus on building scalable data pipelines, distributed data processing solutions, and robust cloud-based architectures.
+    In <b>2023</b>, I joined 
+    <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brazil</a> as a data engineering intern. 
+    During this period, I developed automation scripts, data scrapers, and interactive dashboards using <b>Python</b>, <b>Streamlit</b>, and SQL, 
+    enabling better visibility and faster access to business data. 
+    Due to my performance, I was promoted and hired as a <b>Full-Stack Data Engineer</b>. 
+    In this role, I worked with <b>Azure Databricks</b>, building scalable data pipelines, developing predictive and classification models, 
+    implementing <b>LLM-based solutions</b>, and delivering analytical dashboards using <b>Power BI</b>. 
+    The main goal was to transform raw data into actionable insights, generating efficiency gains, better forecasting, and data-driven decision-making.
   </p>
 
   <p>
-    I have a solid foundation in software engineering and a strong understanding of AI engineering concepts, which enables me to deliver scalable and robust solutions. I also communicate effectively with business teams, gaining strategic insight and practical process understanding, a key advantage as a tech professional.
+    At the end of <b>2024</b>, I completed my undergraduate degree in 
+    <b>Systems Analysis and Development</b>, consolidating both theoretical knowledge and practical experience in software, data, and AI engineering. 
+    This milestone represented the alignment between my academic background and my professional trajectory.
+  </p>
+
+  <p>
+    Currently, I work as a <b>Data Engineer</b> at 
+    <a href="https://mtp.com.br/" target="_blank">MTP Brasil</a>, using a modern data stack that includes 
+    <b>Databricks, Azure, Python, SQL, PySpark</b>, and <b>CI/CD</b> practices. 
+    I focus on building scalable data pipelines, distributed data processing solutions, and robust cloud architectures. 
+    Additionally, I actively work on <b>machine learning projects</b>, applying <b>MLOps practices</b> such as model versioning, monitoring, automation, 
+    and continuous deployment. The objective is to ensure reliable, scalable, and production-ready ML solutions that deliver long-term business value.
+  </p>
+
+  <p>
+    Overall, I combine a strong background in software engineering, data engineering, and applied artificial intelligence with the ability to communicate effectively with business teams. 
+    This allows me to translate complex technical solutions into strategic insights, ensuring that technology directly supports organizational goals and decision-making.
   </p>
 </div>
 
