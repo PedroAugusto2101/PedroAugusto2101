@@ -52,10 +52,8 @@
 <div align="justify">
   <p>
     My relationship with technology began early. In <b>2014</b>, at the age of 11, I had my first contact with programming logic through 
-    <a href="http://www.microworlds.com/por/" target="_blank">MicroMundos</a> and later <b>Scratch</b>, both visual programming platforms, at 
-    <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>. 
-    Using block-based programming, I learned fundamental concepts such as logical reasoning, conditionals, loops, variables, and event-driven execution. 
-    The main goal at this stage was to understand how computers “think” and how logic could be translated into executable instructions. 
+    <a href="http://www.microworlds.com/" target="_blank">MicroMundos</a> and later <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>, both visual programming platforms, at 
+    <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>.
     This early exposure significantly strengthened my problem-solving mindset and laid the foundation for my future transition to text-based programming languages.
   </p>
 
@@ -64,16 +62,14 @@
     <a href="https://fiocruz.br/" target="_blank">Fiocruz</a>. 
     I worked on research initiatives related to <b>data-driven studies focused on the prevention of contagious diseases</b>, contributing to public health projects. 
     My responsibilities involved data organization, validation, and updating research datasets, using spreadsheets, basic data analysis techniques, and structured documentation. 
-    The objective of this experience was to support scientific research with reliable data, and the main gain was developing discipline, attention to detail, 
-    and an early understanding of how data quality directly impacts decision-making in critical domains such as healthcare.
   </p>
 
   <p>
     In <b>2020</b>, I started my higher education academic journey studying 
     <a href="https://www.eng-eletrica.bh.cefetmg.br/" target="_blank">Electrical Engineering</a> at 
     <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>. 
-    During this period, I acquired a strong analytical background through subjects such as calculus, physics, logic, and introductory programming, 
-    while also working with Arduino and embedded systems. 
+    During this period, I acquired a strong analytical background through subjects such as <a href="https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/" target="_blank">calculus</a>, <a href="https://ocw.mit.edu/search/?d=Physics&s=department_course_numbers.sort_coursenum" target="_blank">physics</a>, <a href="https://dev.to/abbeymaniak/introduction-to-programming-logic-understanding-the-basics-of-coding-64a" target="_blank">programming logic</a>, 
+    while also working with <a href="https://docs.arduino.cc/" target="_blank">arduino</a> and <a href="https://en.wikipedia.org/wiki/Embedded_system" target="_blank">embedded systems</a>. 
     Although the course strengthened my mathematical reasoning and engineering mindset, I realized that my main interest was in algorithms, software development, 
     and computational problem-solving. This realization guided my decision to migrate to a program fully aligned with technology and software engineering.
   </p>
@@ -83,10 +79,8 @@
     <a href="https://www.cambridgeenglish.org/exams-and-tests/first/" target="_blank">Cambridge FCE (First Certificate in English)</a>, 
     B2 level, validating my ability to communicate effectively in professional and international environments. 
     In the same year, I joined 
-    <a href="https://tractebel-engie.com.br/pt" target="_blank">Tractebel Engie</a> as a data assistant. 
+    <a href="https://tractebel-engie.com.br/pt" target="_blank">Tractebel Engie</a> as a <b>Data Assistant</b>. 
     In this role, I worked mainly with <b>Python</b>, automating repetitive internal routines, handling spreadsheets, and improving operational workflows. 
-    The objective was to reduce manual effort and increase efficiency, resulting in faster processes, fewer errors, and better reliability of internal data operations. 
-    This experience marked my first professional use of programming to generate tangible business value.
   </p>
 
   <p>
@@ -97,18 +91,17 @@
     Throughout the course, I built a solid foundation in software engineering, working with data structures, algorithms, databases, APIs, and web development. 
     I also explored advanced topics such as artificial intelligence, data engineering, and cybersecurity. 
     Using technologies like Python, SQL, JavaScript, and cloud-based tools, I developed hands-on projects including social media clones, automation systems, 
-    and AI-powered chatbots. The main objective was to bridge theory and practice, and the key gain was the ability to design complete, end-to-end software solutions.
+    and AI-powered chatbots.
   </p>
 
   <p>
     In <b>2023</b>, I joined 
-    <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brazil</a> as a data engineering intern. 
-    During this period, I developed automation scripts, data scrapers, and interactive dashboards using <b>Python</b>, <b>Streamlit</b>, and SQL, 
+    <a href="https://brasil.arcelormittal.com/" target="_blank">ArcelorMittal Brazil</a> as a <b>Data Engineering Intern</b>. 
+    During this period, I developed automation scripts, data scrapers, and interactive dashboards using <b>Python</b>, <b>Streamlit</b>, and <b>SQL</b>, 
     enabling better visibility and faster access to business data. 
     Due to my performance, I was promoted and hired as a <b>Full-Stack Data Engineer</b>. 
     In this role, I worked with <b>Azure Databricks</b>, building scalable data pipelines, developing predictive and classification models, 
-    implementing <b>LLM-based solutions</b>, and delivering analytical dashboards using <b>Power BI</b>. 
-    The main goal was to transform raw data into actionable insights, generating efficiency gains, better forecasting, and data-driven decision-making.
+    implementing <b>LLM-based solutions</b>, and delivering analytical dashboards using <b>Power BI</b>.
   </p>
 
   <p>
